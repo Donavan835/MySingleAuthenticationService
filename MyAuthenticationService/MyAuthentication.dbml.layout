@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="MyAuthentication">
+  <DataContextMoniker Name="/MyAuthenticationDataContext" />
+  <nestedChildShapes>
+    <classShape Id="e38dde9e-5c14-450f-bb84-6367b780d193" absoluteBounds="0.875, 0.875, 3.375, 1.5785953776041666">
+      <DataClassMoniker Name="/MyAuthenticationDataContext/Applications" />
+      <nestedChildShapes>
+        <elementListCompartment Id="eb6abf18-6fe6-4145-a24b-749c1e07180d" absoluteBounds="0.89000000000000012, 1.335, 3.3449999999999998, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8ba9af97-6b9a-4834-8d7c-2472bee5f8cb" absoluteBounds="4.5, 0.875, 4.125, 1.5785953776041666">
+      <DataClassMoniker Name="/MyAuthenticationDataContext/UserCredentials" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4b474d68-cd55-42c0-9d86-fc60094f307a" absoluteBounds="4.515, 1.335, 4.0950000000000006, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="bae99cb5-4f72-4005-b756-3427b22a1a8a" absoluteBounds="0.875, 2.625, 3.375, 1.3862939453124996">
+      <DataClassMoniker Name="/MyAuthenticationDataContext/ApplicationUsers" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9b8420fd-5bcb-4cd9-a638-2e8ada3b7b61" absoluteBounds="0.89, 3.085, 3.3449999999999998, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

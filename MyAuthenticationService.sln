@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAuthenticationService", "MyAuthenticationService\MyAuthenticationService.csproj", "{44206AE8-3E95-4A60-AE72-D31E70B6F486}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySampleApplication", "MySampleApplication\MySampleApplication.csproj", "{E2F9D9C8-A07C-4165-BD21-15E56F658516}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserCredentialCache", "UserCredentialCache\UserCredentialCache.csproj", "{386AC04D-B345-4363-A7E7-D6042B9E516D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44206AE8-3E95-4A60-AE72-D31E70B6F486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44206AE8-3E95-4A60-AE72-D31E70B6F486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44206AE8-3E95-4A60-AE72-D31E70B6F486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44206AE8-3E95-4A60-AE72-D31E70B6F486}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2F9D9C8-A07C-4165-BD21-15E56F658516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2F9D9C8-A07C-4165-BD21-15E56F658516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2F9D9C8-A07C-4165-BD21-15E56F658516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2F9D9C8-A07C-4165-BD21-15E56F658516}.Release|Any CPU.Build.0 = Release|Any CPU
+		{386AC04D-B345-4363-A7E7-D6042B9E516D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{386AC04D-B345-4363-A7E7-D6042B9E516D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{386AC04D-B345-4363-A7E7-D6042B9E516D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{386AC04D-B345-4363-A7E7-D6042B9E516D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
